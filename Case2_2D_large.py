@@ -6,7 +6,7 @@ from scipy import misc
 from numpy.linalg import inv
 import scipy.optimize as so
 
-
+#everything sucks, Erica.
 
 
 #Upload SN data
